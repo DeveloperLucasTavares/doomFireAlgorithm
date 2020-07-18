@@ -1,2 +1,2 @@
-# doomFireAlgorithm
- My first repository based in a video by @filipedeschamps
+# Doom Fire Alogorithm |
+ My first repository based on a video by @filipedeschamps
